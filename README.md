@@ -1,5 +1,5 @@
 # Photogrammetry
-Photogrammetry models hosted on 3dshare.xyz
+Photogrammetry models hosted on 3dshare.xyz. These models are huge, so don't worry if the model takes quite some time to load.
 
 
 ## David
